@@ -723,6 +723,12 @@ export default function DigiSlips() {
                     </div>
                   </div>
                 )}
+              </div>
+            </div>
+          </Reveal>
+        </div>
+      </section>
+
       {/* ════════════════════════════════════
           USE CASES (dual audience)
       ════════════════════════════════════ */}
